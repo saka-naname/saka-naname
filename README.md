@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **saka-naname/saka-naname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+んぅ...DevDevにゃんこなのだ...
+             ＿＿
+          ／＞    フ
+          |    _  _l
+         ／` ミ＿xノ
+        /          |
+       /   ヽ     ﾉ
+      |     |  |  |       ＿＿＿＿
+  ／￣|     |  | ＿＿＿＿/       /
+  | (￣ヽ＿_ヽ_)_|＼  ヽ/       /＼
+  ＼二つ         |＼ ＼  o＝＝＝o   ＼
+                    ＼|￣￣￣￣￣￣￣ |
+                      |￣￣￣￣￣￣￣ |
+```
