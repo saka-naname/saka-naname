@@ -27,8 +27,8 @@
       <td>
         <p align="center">Graduate Student / Junior Web Engineer</p>
         <hr />
-        <img alt="My GitHub stats" src="https://github-stats-extended.vercel.app/api?username=saka-naname&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=noctis_minimus" style="height: 144px;" />
-        <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=saka-naname&layout=compact&langs_count=5&hide_values=true&theme=noctis_minimus&card_width=280px" style="height: 144px;" />
+        <img alt="My GitHub stats" src="https://github-stats-extended.vercel.app/api?username=saka-naname&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=noctis_minimus" style="height: 140px;" />
+        <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=saka-naname&layout=compact&langs_count=5&hide_values=true&theme=noctis_minimus&card_width=280px" style="height: 140px;" />
       </td>
     </tr>
   </tbody>
