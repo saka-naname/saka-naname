@@ -25,7 +25,7 @@
         </pre>
       </td>
       <td>
-        <p align="center">Graduate Student / Junior Web Engineer</p>
+        <p align="center">Graduate Student / Student Web Developer</p>
         <hr />
         <img alt="My GitHub stats" src="https://github-stats-extended.vercel.app/api?username=saka-naname&hide_rank=true&hide_title=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=noctis_minimus" style="height: 140px;" />
         <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=saka-naname&layout=compact&langs_count=5&hide_values=true&theme=noctis_minimus&card_width=280px" style="height: 140px;" />
@@ -36,10 +36,10 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,python,java,html,css,nodejs,astraluv,reactjs,nextjs,astro,vite,reactnative,expo,docker,cloudflare,amazonwebservices,githubactions&perline=9&radius=60" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,python,nodejs,reactjs,nextjs,astro,vite,reactnative,expo,docker,cloudflare,githubactions&perline=9&radius=60" alt="Skill icons of tech stack" />
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=golang,rust,csharp,hono,vitest,sqlite,tauri,unity&perline=9&radius=60" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=golang,rust,csharp,hono,vitest,sqlite,tauri,unity&perline=8&radius=60" alt="Skill icons of technologies that currently learning" />
 </p>
