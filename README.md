@@ -36,10 +36,10 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,python,nodejs,reactjs,nextjs,astro,vite,reactnative,expo,docker,cloudflare,githubactions&perline=9&radius=60" alt="Skill icons of tech stack" />
+  <img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,python,nodejs,reactjs,nextjs,astro,vite,reactnative,expo,sqlite,docker,cloudflare,githubactions&perline=9&radius=60" alt="Skill icons of tech stack" />
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=golang,rust,csharp,hono,vitest,sqlite,tauri,unity&perline=8&radius=60" alt="Skill icons of technologies that currently learning" />
+  <img src="https://skills.syvixor.com/api/icons?i=golang,rust,csharp,hono,vitest,tauri,unity&perline=8&radius=60" alt="Skill icons of technologies that currently learning" />
 </p>
