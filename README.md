@@ -9,20 +9,11 @@
   <tbody>
     <tr>
       <td>
-        <pre>
-           ＿＿
-        ／＞    フ
-        |    _  _l
-       ／` ミ＿xノ
-      /          |
-     /   ヽ     ﾉ
-    |     |  |  |       ＿＿＿＿
-／￣|     |  | ＿＿＿＿/       /
-| (￣ヽ＿_ヽ_)_|＼  ヽ/       /＼
-＼二つ         |＼ ＼  o＝＝＝o   ＼
-                  ＼|￣￣￣￣￣￣￣|
-                    |￣￣￣￣￣￣￣|
-        </pre>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="/images/cat_with_laptop_dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="/images/cat_with_laptop.svg">
+          <img alt="Cat with laptop" src="/images/cat_with_laptop.svg" />
+        </picture>
       </td>
       <td>
         <p align="center">Graduate Student / Student Web Developer</p>
